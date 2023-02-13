@@ -96,6 +96,9 @@ CS6381_MW:  (Note this is a folder)
                 we invoked the following command:
 
                            protoc --python_out="./" discovery.proto
+                           
+                           
+There are two addtional files, topic_graphing.py and numbers_graphing.py which are used to parse and plot data retrieved from the subscribers. 
 
 
                 
